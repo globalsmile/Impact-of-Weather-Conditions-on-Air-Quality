@@ -133,7 +133,7 @@ To do this the dataset was split into dimension and fact tables:
 - A `one-to-many (*:1) relationship` was created between the `weather_data` and the `season` tables using the `month_id` column in each of the tables 
 - The realtioships formed in the data model is a `Star Schema` and is shown below:
 
-<img align="right" alt="Data Model" width="1000" height = "400" src="https://user-images.githubusercontent.com/106287208/226214827-b7740300-9080-4665-8411-3be421e8633f.png">
+![image](https://user-images.githubusercontent.com/106287208/226215613-5b969928-4361-4235-8ca4-2d6e909451fb.png)
 
 
 ---
